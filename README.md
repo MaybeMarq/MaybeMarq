@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Marq👋
 
 - 🔭 I’m currently a Computer Science and Mathematics student at Virginia Tech
 - 🌱 I’m currently learning Rust
